@@ -1,0 +1,5 @@
+.env
+.alert_state.json
+.parts_cache.json
+__pycache__/
+*.pyc
